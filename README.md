@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script does the following:
+This is the final peer review activity to the course Getting-and-Cleaning-Data. The R file uploaded does the following:
 
 1) Download the dataset
 2) Load the activity and features information
