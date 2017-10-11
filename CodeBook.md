@@ -2,8 +2,8 @@
 
 ## Identifiers
 
-subject - ID of the subjects
-activity - SHows the type of activitiy performed when the measurements were recorded.
+* Subject - ID of the subjects
+* Activity - SHows the type of activitiy performed when the measurements were recorded.
 
 ## Measurements
 
@@ -87,7 +87,7 @@ activity - SHows the type of activitiy performed when the measurements were reco
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-Activity Labels
+## Activity Labels
 
 WALKING (value 1): subject was walking 
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase 
