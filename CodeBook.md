@@ -89,9 +89,9 @@
 
 ## Activity Labels
 
-WALKING (value 1): subject was walking 
-WALKING_UPSTAIRS (value 2): subject was walking up a staircase 
-WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase 
-SITTING (value 4): subject was sitting 
-STANDING (value 5): subject was standing 
-LAYING (value 6): subject was laying down 
+* WALKING (value 1): subject was walking 
+* WALKING_UPSTAIRS (value 2): subject was walking up a staircase 
+* WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase 
+* SITTING (value 4): subject was sitting 
+* STANDING (value 5): subject was standing 
+* LAYING (value 6): subject was laying down 
